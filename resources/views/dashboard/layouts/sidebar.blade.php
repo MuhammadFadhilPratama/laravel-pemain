@@ -3,7 +3,7 @@
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
       <img src="/img/Fadhil.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">Halaman Admin</span>
+      <span class="brand-text font-weight-light">Halaman Pemain</span>
     </a>
     <!-- Sidebar -->
     <div class="sidebar">
